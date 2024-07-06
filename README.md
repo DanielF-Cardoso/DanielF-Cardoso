@@ -30,7 +30,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="AWS"  />  
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="40" alt="Postman"  />     
-</div>
 
 #### Workstation Tools:
 
@@ -39,8 +38,9 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 #### Stats:
+<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=DanielF-Cardoso&theme=radical&hide_border=true" /> 
 
-![DanielF-Cardoso's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielF-Cardoso&theme=radical&hide_border=true)
+</div>
 
 <div align="center">
  <br>
