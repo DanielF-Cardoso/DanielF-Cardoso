@@ -27,15 +27,13 @@
   <img width="12" />  
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40" alt="Mysql"  /> 
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="AWS"  />  
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="40" alt="Postman"  />     
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="AWS"  />       
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
 
 #### Stats:
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=DanielF-Cardoso&theme=radical&hide_border=true" /> 
