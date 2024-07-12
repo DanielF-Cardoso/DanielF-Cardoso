@@ -16,24 +16,14 @@
 
 <img align="right" height="400" src="https://github.com/DanielF-Cardoso/DanielF-Cardoso/blob/main/assets/octocat-1720302941625.png?raw=true"  />
 
-<h3 align="left"> Studying in this moment:</h3>
+<h3 align="left"> Skills:</h3>
 
-<div align="left"> 
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="40" alt="Java"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" height="40" alt="Spring"  />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Maven-Dark.svg" height="40" alt="Maven"  />  
-  <img width="12" />  
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40" alt="Mysql"  /> 
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="AWS"  />       
-
-#### Workstation Tools:
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
+<div align="left">      
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,mysql" />
+  </a>
+</p>
 
 #### Stats:
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=DanielF-Cardoso&theme=radical&hide_border=true" /> 
