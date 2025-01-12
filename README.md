@@ -21,12 +21,12 @@
 <div align="left">      
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,spring,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,prisma,nodejs,java,spring,mysql,react,nestjs,vitest&perline=3" />
   </a>
 </p>
 
 #### Stats:
-<img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=DanielF-Cardoso&theme=radical&hide_border=true" /> 
+<img width=50% align="center"  src="https://github-readme-stats.vercel.app/api?username=DanielF-Cardoso&theme=radical&show_icons=true&hide_border=true&count_private=true" /> 
 
 </div>
 
